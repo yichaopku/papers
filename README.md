@@ -9,10 +9,10 @@
 8. DeepFM
 9. DIN
 10. DIEN
-11. DSIN
-Deep Session Interest Network for Click-Through Rate Prediction
-https://arxiv.org/pdf/1905.06482.pdf
-https://github.com/shenweichen/DSIN
+11. DSIN  
+Deep Session Interest Network for Click-Through Rate Prediction  
+https://arxiv.org/pdf/1905.06482.pdf  
+https://github.com/shenweichen/DSIN  
 
 12. AutoInt
 13. HOFM
