@@ -20,38 +20,38 @@
 - FFM(2017)  
 [Field-aware Factorization Machines in a Real-world Online Advertising System](https://arxiv.org/pdf/1701.04099.pdf)  
 
-8. DeepFM  
+- DeepFM(2017)  
 [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/pdf/1703.04247.pdf)  
 
-9. DIN[[code]](https://github.com/zhougr1993/DeepInterestNetwork)  
+- DIN(2018)[[code]](https://github.com/zhougr1993/DeepInterestNetwork)  
 [Deep Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1706.06978.pdf)
 
-10. DIEN[[code]](https://github.com/mouna99/dien)  
+- DIEN(2018)[[code]](https://github.com/mouna99/dien)  
 [Deep Interest Evolution Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1809.03672.pdf)  
   
-11. DSIN[[code]](https://github.com/shenweichen/DSIN)  
+- DSIN(2019)[[code]](https://github.com/shenweichen/DSIN)  
 [Deep Session Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1905.06482.pdf)  
 
-12. AutoInt[[code]](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/featureRec)  
+- AutoInt(2019)[[code]](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/featureRec)  
 [AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/pdf/1810.11921.pdf)
 
-13. HOFM  
+- HOFM(2016)  
 [Higher-Order Factorization Machines](https://arxiv.org/pdf/1607.07195.pdf)  
 
-14. NFM  
+- NFM(2017)  
 [Neural Factorization Machines for Sparse Predictive Analytics](https://arxiv.org/pdf/1708.05027.pdf)  
 
-15. AFM  
+- AFM(2017)  
 [Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks](https://www.ijcai.org/Proceedings/2017/0435.pdf) . 
 
-16. Deep Crossing  
+- Deep Crossing(2016)  
 [Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features](https://www.kdd.org/kdd2016/papers/files/adf0975-shanA.pdf)  
 
-17. Deep & Cross  
+- Deep & Cross(2017)  
 [Deep & Cross Network for Ad Click Predictions](https://arxiv.org/pdf/1708.05123.pdf)  
 
-18. xDeepFM  
+- xDeepFM(2018)  
 [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems](https://arxiv.org/pdf/1803.05170.pdf)  
 
-19. DMR[[code]](https://github.com/lvze92/DMR)  
+- DMR(2020)[[code]](https://github.com/lvze92/DMR)  
 [https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LyuZ.5099.pdf](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LyuZ.5099.pdf)  
