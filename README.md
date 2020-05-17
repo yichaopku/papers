@@ -17,8 +17,12 @@
 6. CCPM  
 [A Convolutional Click Prediction Model](https://dl.acm.org/doi/pdf/10.1145/2806416.2806603)  
 
-7. FFM
-8. DeepFM
+7. FFM  
+[Field-aware Factorization Machines in a Real-world Online Advertising System](https://arxiv.org/pdf/1701.04099.pdf)  
+
+8. DeepFM  
+[DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/pdf/1703.04247.pdf)  
+
 9. DIN[[code]](https://github.com/zhougr1993/DeepInterestNetwork)  
 [Deep Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1706.06978.pdf)
 
@@ -28,11 +32,25 @@
 11. DSIN[[code]](https://github.com/shenweichen/DSIN)  
 [Deep Session Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1905.06482.pdf)  
 
-12. AutoInt
-13. HOFM
-14. NFM
-15. AFM
-16. Deep Crossing
-17. Deep & Cross
-18. xDeepFM
-19. DMR
+12. AutoInt[[code]](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/featureRec)  
+[AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/pdf/1810.11921.pdf)
+
+13. HOFM  
+[Higher-Order Factorization Machines](https://arxiv.org/pdf/1607.07195.pdf)  
+
+14. NFM  
+[Neural Factorization Machines for Sparse Predictive Analytics](https://arxiv.org/pdf/1708.05027.pdf)  
+
+15. AFM  
+[Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks](https://www.ijcai.org/Proceedings/2017/0435.pdf) . 
+
+16. Deep Crossing 
+[Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features](https://www.kdd.org/kdd2016/papers/files/adf0975-shanA.pdf)  
+
+17. Deep & Cross  
+[Deep & Cross Network for Ad Click Predictions](https://arxiv.org/pdf/1708.05123.pdf)  
+
+18. xDeepFM  
+[xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems](https://arxiv.org/pdf/1803.05170.pdf)  
+
+19. DMR  
