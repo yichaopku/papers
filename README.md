@@ -9,17 +9,14 @@
 6. CCDM
 7. FFM
 8. DeepFM
-9. DIN[[Code]](https://github.com/zhougr1993/DeepInterestNetwork)  
+9. DIN[[code]](https://github.com/zhougr1993/DeepInterestNetwork)  
 [Deep Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1706.06978.pdf)
 
-
-10. DIEN  
+10. DIEN[[code]](https://github.com/mouna99/dien)  
 [Deep Interest Evolution Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1809.03672.pdf)  
-[Code](https://github.com/mouna99/dien)  
-
-11. DSIN  
+  
+11. DSIN[[code]](https://github.com/shenweichen/DSIN)  
 [Deep Session Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1905.06482.pdf)  
-[Code](https://github.com/shenweichen/DSIN)  
 
 12. AutoInt
 13. HOFM
