@@ -1,10 +1,7 @@
 # papers
 - FM(2010)[[Factorization Machines]](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)  
-
 - CCPM(2015)[[A Convolutional Click Prediction Model]](https://dl.acm.org/doi/pdf/10.1145/2806416.2806603) 
-
 - Wide & Deep(2016)[[Wide & Deep Learning for Recommender Systems]](https://arxiv.org/pdf/1606.07792.pdf)  
-
 - YoutubeNet(2016)[[Deep Neural Networks for YouTube Recommendations]](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)  
 
 - PNN(2016)[[code]](https://github.com/Atomu2014/product-nets)[[Product-based Neural Networks for User Response Prediction]](https://arxiv.org/pdf/1611.00144.pdf)  
