@@ -1,10 +1,15 @@
 # papers
 1. FM
-2. Wide & Deep
+
+2. Wide & Deep  
+[Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf)  
+
 3. YoutubeNet  
 [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)  
 
-4. PNN
+4. PNN[[code]](https://github.com/Atomu2014/product-nets)
+[Product-based Neural Networks for User Response Prediction](https://arxiv.org/pdf/1611.00144.pdf)  
+
 5. FNN
 6. CCDM
 7. FFM
