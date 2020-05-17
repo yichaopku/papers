@@ -44,7 +44,7 @@
 15. AFM  
 [Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks](https://www.ijcai.org/Proceedings/2017/0435.pdf) . 
 
-16. Deep Crossing 
+16. Deep Crossing  
 [Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features](https://www.kdd.org/kdd2016/papers/files/adf0975-shanA.pdf)  
 
 17. Deep & Cross  
@@ -53,4 +53,5 @@
 18. xDeepFM  
 [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems](https://arxiv.org/pdf/1803.05170.pdf)  
 
-19. DMR  
+19. DMR[[code]](https://github.com/lvze92/DMR)  
+[https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LyuZ.5099.pdf](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LyuZ.5099.pdf)  
