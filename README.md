@@ -9,7 +9,7 @@
 6. CCDM
 7. FFM
 8. DeepFM
-9. DIN[[Code]](https://github.com/zhougr1993/DeepInterestNetwork)
+9. DIN[[Code]](https://github.com/zhougr1993/DeepInterestNetwork)  
 [Deep Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1706.06978.pdf)
 
 
