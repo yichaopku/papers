@@ -1,4 +1,6 @@
 # papers
+- CL-LSI(1998)[[Automatic Cross-Language Retrieval Using Latent Semantic Indexing]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=C74712E1EE6B85C0BDBF7DDF1885A0BB?doi=10.1.1.50.5717&rep=rep1&type=pdf)
+
 - FM(2010)[[Factorization Machines]](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
 
 - FTRL(2013)[[blog]](https://www.jianshu.com/p/befb9e02d858)[[Ad Click Prediction: a View from the Trenches]](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf)
